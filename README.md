@@ -1,16 +1,25 @@
-# How to progress after Le Wagon :bus:
+# ข้อแนะนำหลังจบการเรียน Code Camp
 
-Hi there!
+ได้แรงบันดาลใจมาจาก Link นี้ https://github.com/damienlethiec/after-le-wagon
 
-You've just finished some of the most intensive and hardest weeks of your life.
-But you've made it! Congratulations, you are now full-stack developers able to
-build great web projects from scratch.
+ทุกคนผ่านเวลายากลำบากมาแล้ว และได้เวลาแยกย้ายไปทำสิ่งที่ตนเองต้องการ แต่การเรียนของเรายังไม่จบแค่นั้นนะครับ ผมได้รวบรวมสิ่งต่างๆ ที่ได้พบเจอจากน้องๆ Programmer ที่ผ่านมา ที่เอามารวมเอาไว้ให้ จะได้เป็นจุดตั้งต้นที่ดีในการทำงานต่อ การเป็น Programmer ต้องพัฒนาตัวเองอยู่อย่างตลอดเวลา เพราะว่าเทคโนโลยี และเทคนิคการเขียน code มันเปลี่ยนไปเร็วมากๆ และคนที่ตามไม่ทัน ก็จะกลายเป็นก้าวหน้า พร้อมทั้งประสบความสำเร็จยากกว่าคนอื่นๆ 
 
-But Le Wagon is just the beginning of a long journey. Being a developer is an
-incredibly rewarding position because you get to learn new things every day. But
-it is also a challenging role. With this repository, I want to share with you
-some tips and resources to keep on improving your skills as efficiently as
-possible.
+## อย่าฝืน 
+
+บางที เราเรียนจบ แล้วรู้ตัวเองว่า Coding อาจจะไม่ทำให้เราสนุกตลอดเวลา ก็ลองหาสายงานใหม่ๆ ที่ต่อยอด และได้ใช้ Concept จากเรียนรู้ Coding มา เช่น อาจจะเป็น Business Analyst หรือ Product Owner หรือ Project Manager หรือ UX / UI Designer ก็ได้ เพียงแค่เราอยากจาก ทำงานด้าน IT หรือด้าน Digital เราจะมีโอกาสอีกมากในการเลือกงานที่เหมาะสมกับตัวเราเอง 
+การเขียน Code เราต้องมีความชอบ ทำแล้วไม่เบื่อ ทำแล้วอยากทำเรื่อยๆ ไม่ง่วง ไม่ใช่ทำเพราะว่าคิดว่าได้เงินเดือนดี ท้ายที่สุด เราจะแพ้คนที่ทำแล้วชอบ ที่เลือกที่จะสนุกกับ Coding ตลอดเวลานั่นเอง 
+
+## ตั้งต้นจากคำว่าทำไม 
+
+1. เมื่อเลือกใช้เทคโนโลยี เราต้องคิดก่อนเลย ว่าทำไมเราถึงใช้สิ่งนั้นๆ เช่น ทำไมต้องใช้ React มันต่างกับ Vue.JS และ Angular ยังไง ข้อดี ข้อเสีย คืออะไร ทำไมต้องใช้ Docker การทำงานประเภทไหน ที่เหมาะสม ทำไมต้องเขียน Unit Test การทำงานแบบไหนถึงเหมาะสม
+1. เมื่อได้รับ Requirement ให้เริ่มทำงาน เราควรคิดเสมอว่าทำไมลูกค้า หรือหัวหน้างานถึงสั่งเราให้ทำแบบนั้น มันมีทางเลือกอื่นๆ หรือไม่ที่ดีกว่าสิ่งที่เค้าสั่งมา 
+พยายามคิดแย้งเสมอ
+1. เมื่อจะทำงานใดๆ ให้เข้าใจประโยคเหล่านี้ให้ครบ ก่อนเริ่มทำงาน (ย้ำอีกที ว่าต้องเข้าใจให้ครบก่อนเริ่มทำงาน เพราะว่าส่วนใหญ่น้องๆ ที่เจอ จะมักถาม เมื่อสงสัย หรือนึกขึ้นมาได้เท่านั้น ซึ่งเป็นการทำงานที่ผิด) 
+* Why - ทำไมต้องทำงานนี้ 
+* Who - งานนี้เกี่ยวข้องกับใครบ้าง ทั้งหมด
+* What - ต้องทำอะไรบ้าง กับงานนี้ ให้แตกงานย่อยให้ละเอียดที่สุด เทคนิคง่ายๆ คือ งานย่อย 1 งานไม่ควรใช้เวลาเกิน ครึ่งวัน หรือ 4 ชม. นั่นเอง ถ้าเราคิดงานว่าแต่ละวันจะทำอะไร แล้วมันโผล่มาเพียงแค่วันเดียวแสดงว่าผิดชัวๆ 
+* How - จะต้องใช้เทคนิคอะไร และทำอย่างไร คิดเป็น Step ออกมา คิดเป็น Flow Chart ออกมา ให้รู้ตอนเริ่มงานเลย ว่าต้องทำอะไรบ้าง ตั้งแต่ต้นจนจบ อันนี้ ขอขยายความสำหรับมือใหม่เลยว่าควรนำไปใช้อย่างยิ่ง เพราะว่าจะทำให้เราเห็นความใหญ่ของงาน และเข้าใจงานทั้งหมด และที่สำคัญคือ เราจะเข้าใจว่าตอนนั้น เราจะไม่รู้อะไร ทำอะไรไม่ได้ และทำให้รู้ในที่สุด 
+* When - เมื่อไหร่ - 
 
 ## Solve your problems alone
 
@@ -111,6 +120,12 @@ time to improve your skills.
 
 1. Read the [You don't know JS] books (available for free on Github).
 1. [JavaScript: The Good Parts] is still a must read.
+
+## ศึกษาเรื่องใหม่บ่อยๆ 
+
+1. Thoughwork Technology Radar
+1. Google คำว่า Roadmap แล้วตามด้วย Web Developer หรือ สายงานอื่นๆ ที่เราอยากไป เช่น UX UI
+1. ดูตัวอย่างการออกแบบของทั้งระบบและเทคนิคใหม่ๆ จากบริษัทชั้นนำ เช่น Wongnai Tech Stack https://life.wongnai.com/wongnai-tech-stack-q1-2020-74f20a097139?gi=de792ba8c08
 
 ## After all of this is done
 
